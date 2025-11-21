@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Caua94/Caua94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi there, I'm Cauã Reginato! 👋
 
-Here are some ideas to get you started:
+  ### Full-stack Developer / Student focusing on Front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  ## 📊 GitHub Statistics
+
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caua94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Caua94's Github Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua94&layout=compact&theme=dracula" alt="Caua94's Top Languages" />
+    </a>
+  </p>
+
+  ---
+
+  ## 🕹️ Contribution Commit "Snake" Game
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Caua94/Caua94/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Caua94/Caua94/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Caua94/Caua94/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  ---
+
+  ## 📫 How to reach me
+
+  <a href="mailto:duarteps43@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via Gmail" />
+  </a>
+
+</div>
